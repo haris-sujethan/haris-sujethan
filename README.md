@@ -4,9 +4,9 @@ My name is Haris, I am from Toronto and study computer science at Ryerson Univer
 
 ## About Me
 
-#### •🎓 Ryerson University | Computer Science <br/>
-#### •📍 Toronto, Canada <br/>
-#### •📚 Constantly learning new technologies <br/>
+#### • 🎓 Ryerson University | Computer Science <br/>
+#### • 📍 Toronto, Canada <br/>
+#### • 📚 Constantly learning new technologies <br/>
   
 ## Contact Info
 

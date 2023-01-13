@@ -4,12 +4,12 @@ My name is Haris, I am from Toronto and study computer science at Ryerson Univer
 
 ## About Me
 
-#### •🎓Ryerson University | Computer Science <br/>
-#### •📍Toronto, Canada <br/>
-#### •📚Constantly learning new technologies <br/>
+#### •🎓 Ryerson University | Computer Science <br/>
+#### •📍 Toronto, Canada <br/>
+#### •📚 Constantly learning new technologies <br/>
   
 ## Contact Info
 
-#### •📧Contact me through email: Sujethanharis@gmail.com <br/>
-#### •💼Connect with me through LinkedIn: [Haris Sujethan](https://www.linkedin.com/in/haris-sujethan-3b251921a/)
-#### •🌐Visit my website: [haris-sujethan.com](https://haris-sujethan.com/)
+#### • 📧Contact me through email: [Sujethanharis@gmail.com](sujethanharis@gmail.com) <br/>
+#### • 💼Connect with me through LinkedIn: [Haris Sujethan](https://www.linkedin.com/in/haris-sujethan-3b251921a/)
+#### • 🌐Visit my website: [haris-sujethan.com](https://haris-sujethan.com/)

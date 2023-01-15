@@ -5,6 +5,7 @@ My name is Haris, I am from Toronto and study computer science at Ryerson Univer
 ## About Me
 
 #### • 🎓 Ryerson University | Computer Science <br/>
+#### • 💻 Previous Role: Software Engineer Intern @ Knobull
 #### • 📍 Toronto, Canada <br/>
 #### • 📚 Constantly exploring new technologies <br/>
   

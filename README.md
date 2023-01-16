@@ -1,6 +1,6 @@
 ## Hi There <img src="waving-hand-joypixels.gif" width="30">
 
-My name is Haris, I am from Toronto and study computer science at Ryerson University. I am an aspiring developer accustomed to HTML, CSS, JavaScript, React, PHP, Python, Java, C, and Lisp. I love exploring new technologies, and I have a passion for cryptocurrencies. Please view some of my projects in my [GitHub repository](https://github.com/haris-sujethan?tab=repositories)
+My name is Haris, I am from Toronto and study computer science at Toronto Metropolitan University (Formerly Ryerson University). I am an aspiring developer accustomed to HTML, CSS, JavaScript, React, PHP, Python, Java, C, and Lisp. I love exploring new technologies, and I have a passion for cryptocurrencies. Please view some of my projects in my [GitHub repository](https://github.com/haris-sujethan?tab=repositories)
 
 ## About Me
 

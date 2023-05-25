@@ -2,7 +2,7 @@
 <h3 align="center">| Tech Advocate 💻 | Computer Science Student 🤓 | Crypto Enthusiast 🌟 |</h3> 
 <br/> 
 
-<img src="NotesCombined.png">
+<img src="CsNotes.png">
 
 
 

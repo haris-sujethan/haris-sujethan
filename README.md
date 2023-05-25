@@ -15,6 +15,6 @@ I'm Haris Sujethan and I am a Computer Science student based in the GTA 📍. I 
   
 ## Contact Info
 
-#### • 📧 Contact me through email: Sujethanharis@gmail.com <br/>
+#### • 📧 Contact me through email: sujethanharis@gmail.com <br/>
 #### • 💼 Connect with me through LinkedIn: [Haris Sujethan](https://www.linkedin.com/in/haris-sujethan-3b251921a/)
 #### • 🌐 Visit my website: [haris-sujethan.com](https://haris-sujethan.com/)

@@ -4,15 +4,13 @@
 
 <img src="CsNotes.png">
 
-
-
-My name is Haris, I am from Toronto and study computer science at Toronto Metropolitan University (Formerly Ryerson University). I am an aspiring developer accustomed to HTML, CSS, JavaScript, React, PHP, Python, Java, C, and Lisp. I love exploring new technologies, and I have a passion for cryptocurrencies. Please view some of my projects in my [GitHub repository](https://github.com/haris-sujethan?tab=repositories)
+I'm Haris Sujethan and I am a Computer Science student based in GTA 📍. I enjoy learning new skills and working on side projects 🕹️. I have worked on several individual 👤 & group 👥 projects in a professional and academic environment. I'm passionate about my work which you can view in my [GitHub repository](https://github.com/haris-sujethan?tab=repositories)
 
 ## About Me
 
 #### • 💻 Previous Role: Software Engineer Intern @ Knobull
-#### • 🎓 Ryerson University | Computer Science <br/>
-#### • 📍 Toronto, Canada <br/>
+#### • 🎓 Ryerson University (TMU) | Computer Science <br/>
+#### • 🔭 I’m currently working on a Vehicle Object Detection Project
 #### • 📚 Constantly exploring new technologies <br/>
   
 ## Contact Info

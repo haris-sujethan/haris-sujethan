@@ -1,6 +1,8 @@
 <h1 align="center">Hi I'm Haris Sujethan <img src="waving-hand-joypixels.gif" width="30"> </h1>
 <h3 align="center">| Tech Advocate 💻 | Computer Science Student 🤓 | Crypto Enthusiast 🌟 |</h3> 
-<br/>
+<br/> 
+
+<img src="NotesCombined.png">
 
 
 

@@ -4,7 +4,7 @@
 
 <img src="CsNotes.png">
 
-I'm Haris Sujethan and I am a Computer Science student based in GTA 📍. I enjoy learning new skills and working on side projects 🕹️. I have worked on several individual 👤 & group 👥 projects in a professional and academic environment. I'm passionate about my work which you can view in my [GitHub repository](https://github.com/haris-sujethan?tab=repositories)
+I'm Haris Sujethan and I am a Computer Science student based in the GTA 📍. I enjoy learning new skills and working on side projects 🕹️. I have worked on several individual 👤 & group 👥 projects in a professional and academic environment. I'm passionate about my work which you can view in my [GitHub repository](https://github.com/haris-sujethan?tab=repositories)
 
 ## About Me
 

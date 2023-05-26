@@ -11,7 +11,7 @@ I'm Haris Sujethan and I am a Computer Science student based in the GTA 📍. I 
 #### • 💻 Previous Role: Software Engineer Intern @ Knobull
 #### • 🎓 Ryerson University (TMU) | Computer Science <br/>
 #### • 🔭 I’m currently working on a Vehicle Object Detection Project
-#### • 📚 Constantly learning new things <br/>
+#### • 🧠 Constantly learning new things <br/>
   
 ## Contact Info
 

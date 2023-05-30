@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Haris Sujethan <img src="waving-hand-joypixels.gif" width="30"> </h1>
-<h3 align="center">| Tech Advocate 💻 | Computer Science Student 🤓 | Crypto Enthusiast 🌟 |</h3> 
+<h3 align="center">| Tech Advocate 🤖 | Computer Science Student 🤓 |</h3> 
 <br/> 
 
 <img src="ComputerScienceNotes.jpg">

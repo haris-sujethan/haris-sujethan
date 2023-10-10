@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Haris Sujethan <img src="waving-hand-joypixels.gif" width="30"> </h1>
+<h1 align="center">Hi I'm Haris Sujethan </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haris-sujethan&label=Profile%20views&color=0e75b6&style=flat" alt="haris-sujethan" /> </p>
 
 <br/> 

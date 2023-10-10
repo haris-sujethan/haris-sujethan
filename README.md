@@ -23,7 +23,7 @@
 
 - **Working on a Vehicle Object Detection Project**
 - **Grinding LeetCode**
-- **Getting reported for team damage on Valorant**
+- **Getting reported on Valorant for team damage**
 
 <br/>
 

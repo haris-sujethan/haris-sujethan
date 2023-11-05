@@ -21,7 +21,7 @@
 
 **🤔 What am I doing right now?:**
 
-- **Working on a Vehicle Object Detection Project**
+- **Working on a Finance Dashboard**
 - **Grinding LeetCode**
 - **Getting reported on Valorant for team damage**
 
@@ -30,4 +30,4 @@
 **💬 Contact Info**
 
 - **Reach me by email or LinkedIn! sujethanharis@gmail.com | [Haris Sujethan](https://www.linkedin.com/in/haris-sujethan-3b251921a/)**
-- **Also checkout my website [haris-sujethan.com](https://haris-sujethan.com/)**
+- **Also check out my website [haris-sujethan.com](https://haris-sujethan.com/)**

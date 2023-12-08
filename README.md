@@ -7,7 +7,7 @@
 **💻 Work experience:**
 
 - **Current Role: QA Automation Engineer Intern @ theScore**
-- **Previous Role: Software Developer Intern @ Knobull**
+- **Previous Role: Software Engineer Intern @ Knobull**
 
 <br>
 

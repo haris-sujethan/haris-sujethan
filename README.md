@@ -3,14 +3,13 @@
 
 **💻 Work experience:**
 
-- **Current Role: Automation Engineer Intern @ theScore**
+- **Previous Role: Automation Engineer Intern @ theScore**
 - **Previous Role: Software Engineer Intern @ Knobull**
 
 <br>
 
 **🌱 Interests:**
 
-- **Learning more about Crypto**
 - **Web development**
 - **Getting banned on video games for team damage**
 
@@ -19,7 +18,6 @@
 **🤔 What am I doing right now?:**
 
 - **Working on a Finance Dashboard**
-- **Grinding LeetCode**
 - **Getting reported on Valorant for team damage**
 
 <br/>

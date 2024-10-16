@@ -1,15 +1,19 @@
-<h1 align="center">Hi There, I'm Haris 👋</h1> ![wave](hello.gif)
-![wave](hello.gif)
-<p align="center">I'm a Computer Science student based in Toronto📍. Here's some info about me!</p>
-
-
+<h1 align="center">
+  Hi There, I'm Haris
+  <img src="wavegif.gif" width="40"/>
+</h1>
+<p align="center">I'm a Computer Science student based in Toronto 📍</p>
 <p align="center">
   <img src="code.png" width="600" alt="Code image"/>
 </p>
 <br><br>
 
-**💬 Contact Info**
-- **Reach me by email or LinkedIn sujethanharis@gmail.com | [Haris Sujethan](https://www.linkedin.com/in/haris-sujethan-3b251921a/)**
-- **Also check out my website [haris-sujethan.com](https://haris-sujethan.com/)**
-
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-sujethan/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sujethanharis@gmail)
+  [![Personal Website](https://img.shields.io/badge/Personal_Website-black)](https://www.haris-sujethan.com)
+  
+<div>
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haris-sujethan&label=Profile%20views&color=0e75b6&style=flat" alt="haris-sujethan" /> </p>

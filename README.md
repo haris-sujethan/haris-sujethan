@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋</h1>
 <p align="center">I'm a Computer Science student based in Toronto📍. Here's some info about me!</p>
 
-<br><br>
+
 ![code](code.png)
 <br><br>
 

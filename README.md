@@ -2,6 +2,37 @@
   Hi There, I'm Haris
   <img src="wavegif.gif" width="40"/>
 </h1>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://documentwhispers.com">
+        <img src="code.png" width="100%" alt="Unlock the Voice of PDF">
+      </a>
+    </td>
+    <td>
+      <a href="https://documentwhispers.com">
+        <img src="code.png" width="100%" alt="Document Interface">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://documentwhispers.com">
+        <img src="code.png" width="100%" alt="Unlock the Voice of PDF">
+      </a>
+    </td>
+    <td>
+      <a href="https://documentwhispers.com">
+        <img src="code.png" width="100%" alt="Document Interface">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">I'm a Computer Science student based in Toronto 📍</p>
 <p align="center">
   <img src="code.png" width="600" alt="Code image"/>

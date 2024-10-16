@@ -1,28 +1,9 @@
 <h1 align="center">Hi There 👋</h1>
 <p align="center">I'm a Computer Science student based in Toronto📍. Here's some info about me!</p>
 
+<br><br>
 ![code](code.png)
-
-**💻 Work experience:**
-
-- **Previous Role: Automation Engineer Intern @ theScore**
-- **Previous Role: Software Engineer Intern @ Knobull**
-
-<br>
-
-**🌱 Interests:**
-
-- **Web development**
-- **Getting banned on video games for team damage**
-
-<br>
-
-**🤔 What am I doing right now?:**
-
-- **Working on a Finance Dashboard**
-- **Getting reported on Valorant for team damage**
-
-<br/>
+<br><br>
 
 **💬 Contact Info**
 

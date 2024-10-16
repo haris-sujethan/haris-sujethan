@@ -1,4 +1,5 @@
-<h1 align="center">Hi There, I'm Haris 👋</h1>
+<h1 align="center">Hi There, I'm Haris 👋</h1> ![wave](hello.gif)
+![wave](hello.gif)
 <p align="center">I'm a Computer Science student based in Toronto📍. Here's some info about me!</p>
 
 

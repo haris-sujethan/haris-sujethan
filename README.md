@@ -4,7 +4,7 @@
 </h1>
 <p align="center">I'm a Computer Science student based in Toronto 📍</p>
 <p align="center">
-  <img src="code.png" width="600" alt="Code image"/>
+  <img src="code.png" width="500" alt="Code image"/>
 </p>
 <br><br>
 

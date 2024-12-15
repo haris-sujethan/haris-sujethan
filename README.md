@@ -11,8 +11,6 @@
 - **Previous Role: Automation Engineer Co-op @ theScore**
 - **Previous Role: Software Engineer Intern @ Knobull**
 
-<br>
-
 **🌱 Interests:**
 
 - **Web development**

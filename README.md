@@ -4,9 +4,26 @@
 </h1>
 
 <h4 align="center">I'm a Computer Science student based in Toronto 📍</h4>
-<p align="center">
-  <img src="code.png" width="600" alt="Code image"/>
-</p>
+
+**💻 Work experience:**
+
+- **Current Role: Software Engineer Intern @ HiFi**
+- **Previous Role: Automation Engineer Co-op @ theScore**
+- **Previous Role: Software Engineer Intern @ Knobull**
+
+<br>
+
+**🌱 Interests:**
+
+- **Web development**
+- **Getting banned on video games for team damage**
+
+**🤔 What am I doing right now?:**
+
+- **Working on a Finance Dashboard**
+- **Getting reported on Valorant for team damage**
+
+<br/>
 <br><br>
 
 <div align="center">

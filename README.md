@@ -7,7 +7,7 @@
 
 **💻 Work experience:**
 
-- **Current Role: Software Engineer Intern @ HiFi**
+- **Current Role: Software Engineer Intern @ Hi Finance AI**
 - **Previous Role: Automation Engineer Co-op @ theScore**
 - **Previous Role: Software Engineer Intern @ Knobull**
 

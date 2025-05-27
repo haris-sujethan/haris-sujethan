@@ -7,7 +7,8 @@
 
 **💻 Work experience:**
 
-- **Current Role: Software Engineer Intern @ Hi Finance AI**
+- **Current Role: Software Engineer Co-op @ BCI**
+- **Previous Role: Software Engineer Intern @ Hi Finance AI**
 - **Previous Role: Automation Engineer Co-op @ theScore**
 - **Previous Role: Software Engineer Intern @ Knobull**
 

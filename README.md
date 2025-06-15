@@ -14,12 +14,10 @@
 
 **🌱 Interests:**
 
-- **Web development**
 - **Getting banned on video games for team damage**
 
 **🤔 What am I doing right now?:**
 
-- **Working on a Finance Dashboard**
 - **Getting reported on Valorant for team damage**
 
 <br/>

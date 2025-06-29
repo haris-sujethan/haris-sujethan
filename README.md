@@ -18,7 +18,7 @@
 
 **🤔 What am I doing right now?:**
 
-- **Getting reported on Valorant for team damage**
+- **Getting reported for team damage**
 
 <br/>
 <br><br>

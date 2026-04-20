@@ -1,12 +1,12 @@
 ```json
 {
-  "major": "Computer Science",
-  "contact": {
-    "linkedin": "https://www.linkedin.com/in/haris-sujethan",
-    "website": "https://www.haris-sujethan.com"
+  "Major": "Computer Science",
+  "Contact": {
+    "Linkedin": "https://www.linkedin.com/in/haris-sujethan",
+    "Website": "https://www.haris-sujethan.com"
   },
 
-  "experiences": [
+  "Experiences": [
     {
       "Company": "QuadReal ($100B AUM)",
       "Role": "AI Integration Developer Intern",

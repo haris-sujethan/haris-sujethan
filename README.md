@@ -1,34 +1,42 @@
-<h1 align="center">
-  Hi There, I'm Haris
-  <img src="wavegif.gif" width="40"/>
-</h1>
+```json
+{
+  "major": "Computer Science",
+  "contact": {
+    "linkedin": "https://www.linkedin.com/in/haris-sujethan",
+    "website": "https://www.haris-sujethan.com"
+  },
+  "experiences": [
+    {
+      "company": "QuadReal ($100B AUM)",
+      "role": "AI Integration Developer Intern",
+      "location": "Vancouver, BC (on site)",
+    },
+    {
+      "company": "British Columbia Investment Management Corporation ($250B AUM)",
+      "role": "Software Engineer Co-op",
+      "location": "Victoria, BC (one site)",
+    },
+    {
+      "company": "Hi Finance AI (founded by finance professor at TMU)",
+      "role": "Software Engineer Intern",
+    },
+    {
+      "company": "theScore",
+      "role": "Automation Engineer Co-op",
+      "location": "Toronto, ON (on site)",
+    },
+    {
+      "company": "Knobull",
+      "role": "Software Engineer Intern",
+    }
+  ],
+  "hobbies": [
+    "trolling on video games"
+    "getting banned on video games for trolling"
+  ]
+}
+```
 
-<h4 align="center">I'm a Computer Science student based in Toronto 📍</h4>
-
-**💻 Work experience:**
-
-- **Previous Role: Software Engineer Co-op @ BCI**
-- **Previous Role: Software Engineer Intern @ Hi Finance AI**
-- **Previous Role: Automation Engineer Co-op @ theScore**
-- **Previous Role: Software Engineer Intern @ Knobull**
-
-**🌱 Interests:**
-
-- **Getting banned on video games for team damage**
-
-**🤔 What am I doing right now?:**
-
-- **Getting reported for team damage**
-
-<br/>
-<br><br>
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-sujethan/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sujethanharis@gmail)
-  [![Personal Website](https://img.shields.io/badge/Personal_Website-black)](https://www.haris-sujethan.com)
-  
-<div>
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=haris-sujethan&label=Profile%20views&color=0e75b6&style=flat" alt="haris-sujethan" /> </p>
+<div align="right">
+  <img src="https://static.wikitide.net/megamanwiki/f/ff/MML3DataKobiKobiDance.gif" style="max-width: 100px; width: 30%;" />
+</div>

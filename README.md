@@ -38,6 +38,3 @@
   ]
 }
 ```
-<div align="right">
-  <img src="https://i.pinimg.com/originals/43/4c/96/434c96b781ab845824e56b07501b1bd2.gif" style="max-width: 30px; width: 5%;" />
-</div>
